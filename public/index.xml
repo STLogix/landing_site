@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STLogix</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:57366/</link>
     <description>Recent content on STLogix</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Feb 2025 23:04:16 -0600</lastBuildDate>
+    <atom:link href="http://localhost:57366/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:57366/about/</link>
+      <pubDate>Thu, 06 Feb 2025 23:04:16 -0600</pubDate>
+      <guid>http://localhost:57366/about/</guid>
+      <description>Juniper is killing it with their free training and practice tests for ALL entry-level exams, plus a handful of their specialist and professional level ones too! Check out their Open Learning platform to get started: Get Started with Free Juniper Training. Once you’ve soaked up all that knowledge, you can take their voucher assessment test. Pass with a 70% or higher, and BAM! You get a discount code for the actual exam on Pearson Vue, bringing the price down to a whopping $50!</description>
+    </item>
   </channel>
 </rss>
