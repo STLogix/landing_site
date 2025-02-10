@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STLogix</title>
-    <link>http://localhost:61644/</link>
+    <link>http://localhost:56869/</link>
     <description>Recent content on STLogix</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Feb 2025 23:04:16 -0600</lastBuildDate>
-    <atom:link href="http://localhost:61644/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56869/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:61644/about/</link>
+      <link>http://localhost:56869/about/</link>
       <pubDate>Thu, 06 Feb 2025 23:04:16 -0600</pubDate>
-      <guid>http://localhost:61644/about/</guid>
-      <description>Juniper is killing it with their free training and practice tests for ALL entry-level exams, plus a handful of their specialist and professional level ones too! Check out their Open Learning platform to get started: Get Started with Free Juniper Training. Once you’ve soaked up all that knowledge, you can take their voucher assessment test. Pass with a 70% or higher, and BAM! You get a discount code for the actual exam on Pearson Vue, bringing the price down to a whopping $50!</description>
+      <guid>http://localhost:56869/about/</guid>
+      <description>Your Trusted Partners in Healthcare MSP We&amp;rsquo;re Shyheim and Eli, two friends with a shared passion for simplifying healthcare operations and empowering providers to focus on what matters most: their patients. We founded this MSP with the belief that technology should be a seamless and supportive force in healthcare, not a source of frustration.&#xA;Our combined experience in healthcare and compliance gives us a unique understanding of the challenges providers face in today&amp;rsquo;s complex regulatory environment.</description>
     </item>
   </channel>
 </rss>
