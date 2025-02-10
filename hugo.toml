@@ -1,4 +1,4 @@
-baseURL = "http://wwwstlogix.com"
+baseURL = "http://www.stlogix.com"
 title = "STLogix"
 theme = "hugo-coder"
 languageCode = "en"
@@ -24,7 +24,7 @@ unsafe = true
 [params]
 author = "STLogix"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
-description = "Service and Technology Experts"
+description = "Secure. Compliant. Connected"
 keywords = "blog,developer,personal"
 info = ["Service & Technology", "Expertise"]
 avatarURL = "/st-louis.png"
@@ -40,7 +40,7 @@ rtl = false
 # "auto" (use preference set by browser)
 # "dark" (dark background, light foreground)
 # "light" (light background, dark foreground) (default)
-colorScheme = "auto"
+colorScheme = "light"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count

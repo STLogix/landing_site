@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STLogix</title>
-    <link>http://localhost:56869/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on STLogix</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 06 Feb 2025 23:04:16 -0600</lastBuildDate>
-    <atom:link href="http://localhost:56869/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:56869/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 06 Feb 2025 23:04:16 -0600</pubDate>
-      <guid>http://localhost:56869/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Your Trusted Partners in Healthcare MSP We&amp;rsquo;re Shyheim and Eli, two friends with a shared passion for simplifying healthcare operations and empowering providers to focus on what matters most: their patients. We founded this MSP with the belief that technology should be a seamless and supportive force in healthcare, not a source of frustration.&#xA;Our combined experience in healthcare and compliance gives us a unique understanding of the challenges providers face in today&amp;rsquo;s complex regulatory environment.</description>
     </item>
   </channel>
