@@ -40,11 +40,11 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "10+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Years of experience  
+            with compliance
+        - statistic: "1+"
           description: |
             GitHub stars  
             since 2016
@@ -61,8 +61,8 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Services
+      text: Some of the services we offer
       items:
         - name: Optimized SEO
           icon: magnifying-glass
@@ -113,30 +113,4 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
-  - block: cta-card
-    content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
 ---
