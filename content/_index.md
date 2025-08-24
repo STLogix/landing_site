@@ -10,17 +10,17 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Regulatory Tech Clarity
+      text: 🧱 We are at the intersection of IT and industry compliance  🧱
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Customer Login
+        url: https://support.stlogix.com
         icon: rocket-launch
       secondary_action:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: "Announcing the release of version 1."
+        text: "keep up to date with our take on industry trends."
         link:
           text: "Read more"
           url: "/blog/"
@@ -64,24 +64,30 @@ sections:
       title: Services
       text: Some of the services we offer
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
-          icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
-          icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
-          icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+        - name: Asset Refreshes
+          icon: tv
+          description: Strategic process of updating or replacing  IT hardware and software to maintain security, and performance within your organization’s technology infrastructure.
+
+        - name: Network audits
+          icon: globe-alt
+          description: Evaluation of your network’s infrastructure, performance, security, and compliance status to identify vulnerabilities, inefficiencies, and ensure regulatory adherence.
+
+        - name: Compliance (NIST, HIPAA,)
+          icon: book-open
+          description: Identifying, addressing, and correcting any compliance gaps, vulnerabilities, or misconfigurations discovered during periodic reviews of IT infrastructure and network environments
+
+        - name: Custom IT Solutions
+          icon: cpu-chip
+          description: tailored strategies and tools that streamline IT in your organization 
+
+        - name: Structured Cabling 
+          icon: wifi
+          description: Designing and installing cabling infrastructure 
+
+        - name: IT equipment install and maintainace 
+          icon: server-stack
+          description: Ensures optimal performance, security, and regulatory adherence throughout the IT infrastructure lifecycle.
+
   - block: cta-image-paragraph
     id: solutions
     content:
